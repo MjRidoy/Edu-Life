@@ -9,6 +9,7 @@
 a{
     text-decoration: none;
 }
-.icon_hover:hover{
-    color: #DC3545;
+.explore_img{
+    width: 100%;
+    height: 600px;
 }
