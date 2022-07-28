@@ -6,3 +6,9 @@
     height: 600px;
     filter: brightness(30%);
 }
+a{
+    text-decoration: none;
+}
+.icon_hover:hover{
+    color: #DC3545;
+}
